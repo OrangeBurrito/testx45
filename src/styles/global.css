@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+	background: #422d5d;
+}
+
+h1,h2,h3,h4,a,p,li,span {
+	color: #decff1;
+	font-family: Glisp;
+}
